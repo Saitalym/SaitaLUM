@@ -1,0 +1,50 @@
+img{
+    width: auto;
+    height: 140px;
+}
+body{
+    background-color: rgb(56, 120, 216);
+}
+.head{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(190, 151, 151);
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+}
+.contact{
+    display: flex;
+    align-items: center;
+}
+.n1{
+    border-radius: 50px 0 ;
+    background-color: aquamarine;
+    width: 20%;
+    padding: 10px;
+}
+.n2{
+    border-radius: 50px 0;
+    background-color: aquamarine;
+    width: 20%;
+    padding: 10px;
+}
+.n3{
+    border-radius: 50px 0;
+    background-color: aquamarine;
+    width: 20%;
+    padding: 10px;
+}
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+.new{
+    display: flex;
+    justify-content: center;
+}
+a{
+padding: 10px;
+}
