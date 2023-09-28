@@ -1,50 +1,29 @@
-img{
-    width: auto;
-    height: 140px;
-}
-body{
-    background-color: rgb(56, 120, 216);
-}
-.head{
-    display: flex;
-    justify-content: space-around;
-    background-color: rgb(190, 151, 151);
+.new{
+    width: 60%;
 }
 .navbar{
     display: flex;
     align-items: center;
     align-content: space-between;
 }
-.contact{
+a{
+    padding: 10px;
+}
+.h1{
+    padding:20px;
+    width: 20%;
+}
+.cont{
     display: flex;
-    align-items: center;
 }
-.n1{
-    border-radius: 50px 0 ;
-    background-color: aquamarine;
-    width: 20%;
-    padding: 10px;
+table,td{
+    border: 2px solid black;
 }
-.n2{
-    border-radius: 50px 0;
-    background-color: aquamarine;
-    width: 20%;
-    padding: 10px;
-}
-.n3{
-    border-radius: 50px 0;
-    background-color: aquamarine;
-    width: 20%;
-    padding: 10px;
-}
-.main{
+table{
+    width: 500px;
+}   
+.head{
     display: flex;
     justify-content: space-around;
-}
-.new{
-    display: flex;
-    justify-content: center;
-}
-a{
-padding: 10px;
+    background-color: darkorange;
 }
